@@ -17,7 +17,7 @@ This project utilizes transfer learning with a pre-trained MobileNetV2 model to 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/WarunaDissanayake1234/Dog-vs-Cat-Classification-using-Transfer-Learning.git
+   https://github.com/WarunaDissanayake1234/Dog-vs-Cat-Classification-using-Transfer-Learning.git
    ```
 
 2. **Install Dependencies:**
